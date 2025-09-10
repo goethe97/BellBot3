@@ -18,7 +18,7 @@
 ## 📦 Установка и запуск (из исходников)
 
 1. Склонируйте репозиторий:
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/goethe97/BellBot3.git
    cd repo
 
 2. Установите зависимости:
@@ -44,8 +44,8 @@ pyinstaller --onefile bot.py
 
 ## 📥 Скачивание готового exe
 
-Готовый билд можно будет скачать в разделе [Releases](https://github.com/username/repo/releases).  
-➡️ [Скачать последнюю версию](https://github.com/username/repo/releases/latest)
+Готовый билд можно будет скачать в разделе [Releases](https://github.com/goethe97/BellBot3/releases).  
+➡️ [Скачать последнюю версию](https://github.com/goethe97/BellBot3/releases/tag/v1.0.0)
 
 ---
 
