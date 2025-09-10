@@ -1,0 +1,26 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# === venv / окружения ===
+venv/
+env/
+.venv/
+.envrc
+
+# === секреты ===
+.env
+
+# === Сборка PyInstaller ===
+build/
+dist/
+*.spec
+
+# === IDE / редакторы ===
+.idea/
+.vscode/
+*.swp
+.DS_Store
